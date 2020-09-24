@@ -95,6 +95,10 @@ body {
     border-radius: 9px 9px 0px 0px;
 }
 
+.fade {
+    color: rgb(197, 194, 194);
+}
+
 /* Just some rounded corners */
 .round-bottom {
     border-radius: 0px 0px 9px 9px;
